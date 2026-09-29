@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Disallow: /demo/*/*/preview
+Sitemap: https://infitechdigi.com/sitemap.xml

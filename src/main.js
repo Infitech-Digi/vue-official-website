@@ -21,6 +21,6 @@ const routes = [
   { path:'/kontak', component:() => import('./views/ContactView.vue'), meta:{ title:'Konsultasi Gratis | InfitechDigi', description:'Ceritakan kebutuhan digital bisnis Anda dan lanjutkan konsultasi melalui WhatsApp.' } },
   { path:'/:pathMatch(.*)*', component:() => import('./views/NotFoundView.vue'), meta:{ noindex:true, title:'Halaman Tidak Ditemukan | InfitechDigi', description:'Halaman tidak ditemukan.' } },
 ]
-const router=createRouter({history:createWebHistory(),routes,scrollBehavior:(to,from,saved)=>saved||({top:0})})
+const router=createRouter({history:createWebHistory(import.meta.env.BASE_URL),routes,scrollBehavior:(to,from,saved)=>saved||({top:0})})
 router.afterEach((to)=>{ const seo=applySeo(to); trackEvent('page_view',{path:to.fullPath,title:seo.title}) })
 createApp(App).use(router).mount('#app')
