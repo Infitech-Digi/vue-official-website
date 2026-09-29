@@ -1,0 +1,25 @@
+{
+  "industries": [
+    { "id": "travel", "label": "Travel & Tour" },
+    { "id": "konstruksi", "label": "Konstruksi" },
+    { "id": "kuliner", "label": "Kuliner" },
+    { "id": "retail", "label": "Retail" },
+    { "id": "professional-service", "label": "Professional Service" },
+    { "id": "technology", "label": "Technology" }
+  ],
+  "services": [
+    { "id": "landing-page", "label": "Landing Page" },
+    { "id": "company-profile", "label": "Company Profile" },
+    { "id": "toko-online", "label": "Toko Online" }
+  ],
+  "visibility": ["draft", "public", "archived"],
+  "status": ["concept"],
+  "features": [
+    { "id": "whatsapp", "label": "Integrasi WhatsApp" },
+    { "id": "gallery", "label": "Galeri" },
+    { "id": "faq", "label": "FAQ" },
+    { "id": "inquiry", "label": "Form Inquiry" },
+    { "id": "catalog", "label": "Katalog" },
+    { "id": "analytics", "label": "Analytics" }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "industrial-authority": {
+    "cover": "/demos/industrial-authority/cover.webp",
+    "desktop": [
+      "/demos/industrial-authority/desktop-01.webp",
+      "/demos/industrial-authority/desktop-02.webp"
+    ],
+    "mobile": [
+      "/demos/industrial-authority/mobile-01.webp"
+    ]
+  },
+  "local-favorite": {
+    "cover": "/demos/local-favorite/cover.webp",
+    "desktop": [
+      "/demos/local-favorite/desktop-01.webp",
+      "/demos/local-favorite/desktop-02.webp"
+    ],
+    "mobile": [
+      "/demos/local-favorite/mobile-01.webp"
+    ]
+  },
+  "premium-journey": {
+    "cover": "/demos/premium-journey/cover.webp",
+    "desktop": [
+      "/demos/premium-journey/desktop-01.webp",
+      "/demos/premium-journey/desktop-02.webp"
+    ],
+    "mobile": [
+      "/demos/premium-journey/mobile-01.webp"
+    ]
+  },
+  "product-builder": {
+    "cover": "/demos/product-builder/cover.webp",
+    "desktop": [
+      "/demos/product-builder/desktop-01.webp",
+      "/demos/product-builder/desktop-02.webp"
+    ],
+    "mobile": [
+      "/demos/product-builder/mobile-01.webp"
+    ]
+  },
+  "product-focus": {
+    "cover": "/demos/product-focus/cover.webp",
+    "desktop": [
+      "/demos/product-focus/desktop-01.webp",
+      "/demos/product-focus/desktop-02.webp"
+    ],
+    "mobile": [
+      "/demos/product-focus/mobile-01.webp"
+    ]
+  },
+  "tropical-escape": {
+    "cover": "/demos/tropical-escape/cover.webp",
+    "desktop": [
+      "/demos/tropical-escape/desktop-01.webp",
+      "/demos/tropical-escape/desktop-02.webp"
+    ],
+    "mobile": [
+      "/demos/tropical-escape/mobile-01.webp"
+    ]
+  },
+  "trusted-expert": {
+    "cover": "/demos/trusted-expert/cover.webp",
+    "desktop": [
+      "/demos/trusted-expert/desktop-01.webp",
+      "/demos/trusted-expert/desktop-02.webp"
+    ],
+    "mobile": [
+      "/demos/trusted-expert/mobile-01.webp"
+    ]
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "name": "infitechdigi-vue",
+  "private": true,
+  "version": "1.1.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview",
+    "deploy": "npm run build && gh-pages -d dist",
+    "demo:assets": "node scripts/demo-assets.mjs",
+    "validate:demos": "node scripts/demo-assets.mjs && node scripts/validate-demos.mjs",
+    "predev": "npm run demo:assets",
+    "prebuild": "npm run validate:demos && npm run generate:sitemap",
+    "generate:sitemap": "node scripts/generate-sitemap.mjs"
+  },
+  "dependencies": {
+    "vue": "3.5.13",
+    "vue-router": "4.5.0"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "5.2.1",
+    "vite": "5.4.14",
+    "gh-pages": "^6.1.1"
+  }
+}

@@ -1,0 +1,301 @@
+{
+  "demos": [
+    {
+      "slug": "tropical-escape",
+      "title": "Tropical Escape",
+      "industry": "travel",
+      "service": "company-profile",
+      "description": "Konsep travel lokal yang menonjolkan paket, destinasi, trust, dan CTA WhatsApp dalam presentasi visual yang hangat.",
+      "bestFor": [
+        "Travel lokal",
+        "Tour operator",
+        "Paket wisata domestik"
+      ],
+      "features": [
+        "Paket perjalanan",
+        "Destinasi",
+        "Trust section",
+        "CTA WhatsApp",
+        "FAQ"
+      ],
+      "pages": [
+        "Beranda",
+        "Paket Wisata",
+        "Tentang",
+        "Galeri",
+        "FAQ",
+        "Kontak"
+      ],
+      "design": [
+        "tropical",
+        "editorial",
+        "warm",
+        "photography"
+      ],
+      "featured": true,
+      "priority": 100,
+      "visibility": "public",
+      "status": "concept",
+      "liveDemoUrl": "https://infitechdigi.com/",
+      "createdAt": "2026-09-28",
+      "updatedAt": "2026-09-28",
+      "source": {
+        "project": "travel-template",
+        "version": "concept"
+      }
+    },
+    {
+      "slug": "premium-journey",
+      "title": "Premium Journey",
+      "industry": "travel",
+      "service": "company-profile",
+      "description": "Arah desain travel yang lebih premium untuk bisnis yang menjual pengalaman, kredibilitas, dan layanan perjalanan bernilai tinggi.",
+      "bestFor": [
+        "Travel premium",
+        "Umrah & tour",
+        "Private trip"
+      ],
+      "features": [
+        "Hero premium",
+        "Paket unggulan",
+        "Profil perusahaan",
+        "Testimonial area",
+        "Inquiry CTA"
+      ],
+      "pages": [
+        "Beranda",
+        "Paket",
+        "Tentang",
+        "Testimoni",
+        "Kontak"
+      ],
+      "design": [
+        "premium",
+        "editorial",
+        "photography"
+      ],
+      "featured": false,
+      "priority": 80,
+      "visibility": "public",
+      "status": "concept",
+      "liveDemoUrl": "https://infitechdigi.com/",
+      "createdAt": "2026-09-28",
+      "updatedAt": "2026-09-28",
+      "source": {
+        "project": "travel-template",
+        "version": "concept"
+      }
+    },
+    {
+      "slug": "industrial-authority",
+      "title": "Industrial Authority",
+      "industry": "konstruksi",
+      "service": "company-profile",
+      "description": "Company profile kontraktor yang memprioritaskan kapabilitas, project showcase, layanan, sertifikasi, dan inquiry.",
+      "bestFor": [
+        "Kontraktor",
+        "Supplier konstruksi",
+        "Engineering company"
+      ],
+      "features": [
+        "Project showcase",
+        "Layanan",
+        "Sertifikasi",
+        "Company profile",
+        "Inquiry"
+      ],
+      "pages": [
+        "Beranda",
+        "Tentang",
+        "Layanan",
+        "Proyek",
+        "Sertifikasi",
+        "Kontak"
+      ],
+      "design": [
+        "industrial",
+        "corporate",
+        "authority"
+      ],
+      "featured": true,
+      "priority": 90,
+      "visibility": "public",
+      "status": "concept",
+      "liveDemoUrl": "https://infitechdigi.com/",
+      "createdAt": "2026-09-28",
+      "updatedAt": "2026-09-28",
+      "source": {
+        "project": "construction-template",
+        "version": "concept"
+      }
+    },
+    {
+      "slug": "local-favorite",
+      "title": "Local Favorite",
+      "industry": "kuliner",
+      "service": "landing-page",
+      "description": "Konsep bisnis kuliner dengan menu unggulan, promo, lokasi, social proof, dan CTA pemesanan yang cepat dipahami.",
+      "bestFor": [
+        "Restoran",
+        "Coffee shop",
+        "Bakery",
+        "UMKM kuliner"
+      ],
+      "features": [
+        "Menu unggulan",
+        "Promo",
+        "Lokasi",
+        "Jam operasional",
+        "Order CTA"
+      ],
+      "pages": [
+        "Landing Page"
+      ],
+      "design": [
+        "warm",
+        "local-commerce",
+        "food-photography"
+      ],
+      "featured": true,
+      "priority": 85,
+      "visibility": "public",
+      "status": "concept",
+      "liveDemoUrl": "https://infitechdigi.com/",
+      "createdAt": "2026-09-28",
+      "updatedAt": "2026-09-28",
+      "source": {
+        "project": "culinary-template",
+        "version": "concept"
+      }
+    },
+    {
+      "slug": "product-focus",
+      "title": "Product Focus",
+      "industry": "retail",
+      "service": "toko-online",
+      "description": "Showcase produk yang rapi untuk bisnis lokal dengan kategori, detail produk, dan alur pemesanan yang sederhana.",
+      "bestFor": [
+        "Brand lokal",
+        "Retail",
+        "Reseller",
+        "Produk rumahan"
+      ],
+      "features": [
+        "Katalog",
+        "Kategori produk",
+        "Detail produk",
+        "CTA order",
+        "Promo section"
+      ],
+      "pages": [
+        "Beranda",
+        "Katalog",
+        "Detail Produk",
+        "Tentang",
+        "Kontak"
+      ],
+      "design": [
+        "clean",
+        "product-commerce",
+        "minimal"
+      ],
+      "featured": false,
+      "priority": 70,
+      "visibility": "public",
+      "status": "concept",
+      "liveDemoUrl": "https://infitechdigi.com/",
+      "createdAt": "2026-09-28",
+      "updatedAt": "2026-09-28",
+      "source": {
+        "project": "retail-template",
+        "version": "concept"
+      }
+    },
+    {
+      "slug": "trusted-expert",
+      "title": "Trusted Expert",
+      "industry": "professional-service",
+      "service": "company-profile",
+      "description": "Tampilan profesional untuk konsultan, klinik, legal, dan jasa ahli yang perlu membangun trust sebelum calon pelanggan menghubungi.",
+      "bestFor": [
+        "Konsultan",
+        "Klinik",
+        "Firma",
+        "Jasa profesional"
+      ],
+      "features": [
+        "Profil ahli",
+        "Layanan",
+        "Trust indicators",
+        "FAQ",
+        "Consultation CTA"
+      ],
+      "pages": [
+        "Beranda",
+        "Profil",
+        "Layanan",
+        "FAQ",
+        "Kontak"
+      ],
+      "design": [
+        "premium",
+        "professional",
+        "minimal"
+      ],
+      "featured": true,
+      "priority": 75,
+      "visibility": "public",
+      "status": "concept",
+      "liveDemoUrl": "https://infitechdigi.com/",
+      "createdAt": "2026-09-28",
+      "updatedAt": "2026-09-28",
+      "source": {
+        "project": "professional-service-template",
+        "version": "concept"
+      }
+    },
+    {
+      "slug": "product-builder",
+      "title": "Product Builder",
+      "industry": "technology",
+      "service": "company-profile",
+      "description": "Website studio aplikasi/software house dengan service showcase, capability, process, dan jalur konsultasi proyek.",
+      "bestFor": [
+        "Software house",
+        "App studio",
+        "IT consultant"
+      ],
+      "features": [
+        "Capabilities",
+        "Service showcase",
+        "Process",
+        "Technology section",
+        "Project CTA"
+      ],
+      "pages": [
+        "Beranda",
+        "Layanan",
+        "Capability",
+        "Proses",
+        "Tentang",
+        "Kontak"
+      ],
+      "design": [
+        "modern",
+        "technology",
+        "studio"
+      ],
+      "featured": true,
+      "priority": 80,
+      "visibility": "public",
+      "status": "concept",
+      "liveDemoUrl": "https://infitechdigi.com/",
+      "createdAt": "2026-09-28",
+      "updatedAt": "2026-09-28",
+      "source": {
+        "project": "app-studio-template",
+        "version": "concept"
+      }
+    }
+  ]
+}
