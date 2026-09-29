@@ -7,7 +7,6 @@
     "dev": "vite",
     "build": "vite build",
     "preview": "vite preview",
-    "deploy": "npm run build && gh-pages -d dist",
     "demo:assets": "node scripts/demo-assets.mjs",
     "validate:demos": "node scripts/demo-assets.mjs && node scripts/validate-demos.mjs",
     "predev": "npm run demo:assets",
@@ -20,7 +19,6 @@
   },
   "devDependencies": {
     "@vitejs/plugin-vue": "5.2.1",
-    "vite": "5.4.14",
-    "gh-pages": "^6.1.1"
+    "vite": "5.4.14"
   }
 }
